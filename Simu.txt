@@ -1,0 +1,2 @@
+Les resultats de la simulation:
+k	U(k)	Y(k)
